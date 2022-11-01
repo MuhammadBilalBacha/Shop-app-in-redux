@@ -1,0 +1,30 @@
+nav {
+    background-color: rgb(53, 23, 57);
+    color: aliceblue;
+    align-items: center;
+}
+.navlink {
+    color: aliceblue;
+    
+    padding-block: 3px;
+    padding-inline: 8px;
+    border-radius: 4px;
+}
+.navlink:hover {
+    color: antiquewhite;
+    background-color: brown;
+}
+nav button {
+    padding-block: 4px;
+    padding-inline: 10px;
+    border-radius: 4px;
+    color: wheat;
+    background-color: brown;
+    border: none;
+}
+nav button span {
+    background-color: rgb(95, 26, 26);
+    padding-inline: 11px;
+    padding-block: 4px;
+    border-radius: 50%;
+}
